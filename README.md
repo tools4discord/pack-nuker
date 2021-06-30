@@ -1,4 +1,4 @@
-# Discord Nuker
+# Pack Nuker
 
 # Note: 
 
